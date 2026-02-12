@@ -1,0 +1,51 @@
+# Swap de visage dans Arcana
+
+## Principe
+Objectif : utiliser un **modèle de visage entraîné**, puis remplacer précisément le visage d’une image via **Modify**, en peignant la zone à changer avec le pinceau.
+
+---
+
+### 🟠 Swap de visage dans Arcana
+
+* Entraîner un modèle de visage  
+  * Aller dans **Create Model → Face Model**  
+  * Importer 5 à 15 photos du visage (angles variés, bonne lumière)  
+  * Lancer l’entraînement  
+  * Attendre qu’il apparaisse dans **My Models**
+
+* Créer un nouveau projet  
+  * Cliquer sur **New Project**  
+  * Choisir **Modify**
+
+* Ajouter l’image à modifier  
+  * Cliquer sur **Upload**  
+  * Importer l’image dont tu veux remplacer le visage
+
+* Définir la zone du visage  
+  * Sélectionner l’outil **Brush / Pinceau**  
+  * Peindre uniquement la **zone du visage** à remplacer  
+  * Ne pas peindre les cheveux, le cou ou le décor pour éviter les déformations
+
+* Sélectionner le modèle de visage  
+  * Ouvrir **Models**  
+  * Choisir ton modèle entraîné (ex. `@mila`) comme **source du visage**
+
+* Générer  
+  * Cliquer sur **Generate**  
+  * Vérifier la cohérence : intégration, lumière, expression, peau  
+  * Ajuster la zone peinte si nécessaire  
+  * Relancer jusqu’à obtenir un résultat naturel
+
+---
+
+## Exemple de prompt prêt à copier-coller
+
+* Utiliser ce prompt (adapter les noms si nécessaire) :
+  * Prompt :
+
+    ```
+    30-year-old woman with fair porcelain skin and cool undertones, light blue eyes, delicate facial features, 
+    fine straight nose, straight natural eyebrows, soft matte lips, faint freckles across the nose and cheeks, 
+    natural skin texture with visible pores and no shine.
+
+    ```
