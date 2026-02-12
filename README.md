@@ -2,19 +2,6 @@
 
 ---
 
-## 🟣 RESSOURCES DE TRAVAIL
-
-### Accès essentiels
-* [Outils AI, Pipeline & mots de passe](https://docs.google.com/spreadsheets/d/17HedLxW4KBKEGMhFtOpq3xyW_d5FrEC3/edit?gid=1634905454#gid=1634905454)
-* [Prompts](https://docs.google.com/spreadsheets/d/1XGPT7ULhHw_BYqIMpqTQjyZ7h5cKRc8t/edit?usp=sharing&ouid=109304383863739713675&rtpof=true&sd=true)
-* [Chats personnalisés](https://chatgpt.com/)
-
-### Formation & documentation
-* [Vidéos de formation](https://docs.google.com/document/d/125NEwXqk3jEPTUDoImLbBbBdDc4dJvJhAovAQK-pgsg/edit?usp=drive_link)
-
-
----
-
 ## 🟣 IMAGE
 
 
