@@ -8,7 +8,7 @@
 ---
 
 
-## 🟣 [CRÉER DES VIDÉOS](./videos.md)
+## 🟣 [CRÉER DES VIDÉOS AI](./videos.md)
 
 
 ---
