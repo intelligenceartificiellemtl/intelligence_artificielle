@@ -2,7 +2,7 @@
 
 ---
 
-## 🟣 IMAGE
+## 🟣 [CRÉER DES IMAGES AI](./image.md) 
 
 
 ### Guides de prompt
