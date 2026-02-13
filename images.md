@@ -73,3 +73,4 @@
 * Enhancor peut ajouter de la texture mais modifie parfois les visages  
 * Topaz n’est pas supérieur à Magnific ou Crystal  
 
+
